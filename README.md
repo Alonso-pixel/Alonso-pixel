@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alonso-pixel
 - 👀 I’m interested in Software Architecture and Development...
 - 🌱 I’m currently learning JavaScript, React, Distributed Systems and Cloud Computing.
-- 💞️ I’m looking to collaborate on a Proyecto on WebDev
+- 💞️ I’m looking to collaborate on a Proyect on WebDev
 - 📫 How to reach me: kreitos_05@outlook.com
 
 <!---
